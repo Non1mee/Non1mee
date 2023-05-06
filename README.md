@@ -10,9 +10,9 @@ int main()
     int erkuban = 19;
     int ereqban = 2007;
     
-    std::cout << "Instagram: " << "____black._.sun____" << "\n";
+    std::cout << "Instagram: " << "mkrtchyan77.7" << "\n";
     std::cout << "Gmail: " << "mser0207@gmail.com" << std::endl;
-    std::cout << " First name and Last name: " << " Sergei Mkrtchyan " << " Date of birth " << miban << "/" << erkuban << "/" << ereqban << std::endl;
+    std::cout << "Sergey Mkrtchyan " << " 19/04/2007 " << miban << "/" << erkuban << "/" << ereqban << std::endl;
     return 0;
 }
 
